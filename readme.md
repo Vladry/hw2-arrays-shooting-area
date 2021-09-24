@@ -1,3 +1,8 @@
+ссылка на мой репозиторий с этой работой:
+https://github.com/Vladry/hw2-arrays-shooting-area
+
+
+ссылка на ТЗ:
 https://gitlab.com/dan-it/groups/fs15/-/tree/master/java-basic/homework/homework2
 
 Массивы
