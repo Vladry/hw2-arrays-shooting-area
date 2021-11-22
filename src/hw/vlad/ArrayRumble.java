@@ -25,7 +25,7 @@ public class ArrayRumble {
             hitYX = getHit();
             checkHit();
 
-        }//while
+        }//while()
     }
 
     private static void checkHit() {
